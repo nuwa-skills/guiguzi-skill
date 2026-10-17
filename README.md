@@ -70,8 +70,6 @@ npx skills add nuwa-skills/guiguzi-skill
 - 《鬼谷子的局》-- 寒川子
 - 《纵横家研究》-- 熊宪光
 
-详细调研笔记见 [references/research.md](references/research.md)。
-
 ---
 
 ## 仓库结构
@@ -81,10 +79,8 @@ guiguzi-skill/
 ├── SKILL.md                      # Skill 核心定义文件
 ├── README.md                     # 项目说明
 ├── LICENSE                       # MIT 许可证
-├── examples/
-│   └── demo-conversation.md      # 完整对话示例
-└── references/
-    └── research.md               # 调研笔记与资料汇编
+└── examples/
+    └── demo-conversation.md      # 完整对话示例
 ```
 
 ---
