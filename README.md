@@ -5,9 +5,9 @@
 > "捭阖者，天地之道。捭阖者，以变动阴阳，四时开闭，以化万物。" -- 鬼谷子
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 化身鬼谷子，以纵横捭阖之术助你洞察人心、掌握说服与博弈之道。**
+**让 AI 化身鬼谷子，以纵横捭阖之术助你洞察人心、掌握说服与博弈之道。**
 
 </div>
 
